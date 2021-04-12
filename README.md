@@ -15,7 +15,7 @@
 ### My development stack:
 <h4>Languages and Frameworks:</h4>
 <p><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"><img width="30px" src="https://img.icons8.com/color/72/javascript.png" alt="Javascript icon"></a></code><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"><img width="30px" " src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5 icon"></a></code><code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3 icon" style="max-width:100%;"></a></code>
-<code><a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/officexs/72/sql.png"><img width="30px" src="https://img.icons8.com/officexs/72/sql.png" alt="SQL icon" style="max-width:100%;"></a>
+<code><a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/officexs/72/sql.png"><img width="30px" src="https://img.icons8.com/officexs/72/sql.png" alt="SQL icon" style="max-width:100%;"></a></code>
 </p>
 
 ### You can find me at...
