@@ -1,4 +1,4 @@
-<h2> Hi there, wellcome to my page! </h2>
+<h2> Hi there, welcome to my page! </h2>
 
 <p>
   Nice to meet you! My name is Daniel Felix, but people call me Dan.<br>
