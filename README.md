@@ -4,7 +4,7 @@
   Nice to meet you! My name is Daniel Felix, but people call me Dan.<br>
   I'm a front-end developer student from <b>Brazil</b>. 
   <br>
-  I've worked my whole life as a Systems Support but so long ago I completely fell in love with coding and interface ux.<br>
+  I've worked my whole life as a Systems Support but so long ago I completely fell in love with coding and interface ux/ui.<br>
   Now I'm trying to start a new career as a Developer and I'm looking for oportunities and projects to collaborate and grow as one.
 </p>
 
