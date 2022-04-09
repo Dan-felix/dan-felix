@@ -1,11 +1,14 @@
 <h2> Bem-vindo(a) ao meu perfil! </h2>
 
 <p>
-  Sou um profissional com conhecimentos variados em Programação, Infraestrurura de TI/Devops/Suporte e noções de UI/UX. Conheço metodologias ágeis e estou, atualmente, aprendendo mais sobre Desenvolvimento Web e Devops/SRE. 
+  Meu grande objetivo é criar coisas incríveis e úteis com programação. Para isto, estou estudando programação na Rockeseat e, pretendo aprender também sobre Design de UI e Devops.
+
+Tenho larga experiência em tecnologia, em diversos setores. Possuo conhecimentos variados em TI e metodologias ágeis. Além de possuir noções de design e processos de TI.
+
+Meu codepen: https://codepen.io/danielfxds
 </p>
 
-### Um pouco mais sobre mim...
-- Atualmente, estou estudando Lógica da Programação com Javascript, Html 5 e Css3. 
+### Um pouco mais sobre mim... 
 - Estou estudado também a cultura Devops, Containers, Microservices...
 
 <h4>Linguagens & Frameworks:</h4>
