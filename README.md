@@ -17,4 +17,4 @@ Meu codepen: https://codepen.io/danielfxds
 </p>
 
 ### Me ache nestes links...
-<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/danielfxds/"><img height="32" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="LinkedIn icon" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/danielfxds/"><img height="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn icon" style="max-width:100%;"></a>
