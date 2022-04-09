@@ -16,5 +16,5 @@ Meu codepen: https://codepen.io/danielfxds
 <code><a target="_blank" rel="noopener noreferrer" href="https://img.icons8.com/officexs/72/sql.png"><img width="30px" src="https://img.icons8.com/officexs/72/sql.png" alt="SQL icon" style="max-width:100%;"></a></code>
 </p>
 
-### Me ache nestes links...
+### Me encontre no Linkedin...
 <a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/danielfxds/"><img height="32" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="LinkedIn icon" style="max-width:100%;"></a>
